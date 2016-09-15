@@ -112,9 +112,7 @@
 					} else if(imc >= 32.3){
 						%><div class="alert alert-dismissible alert-success">Obeso</div><%
 					}
-				} else {
-					%><div class="alert alert-dismissible alert-danger">Selecione o sexo</div><%
-				}
+				} 
 			%>
 			</div>
 
