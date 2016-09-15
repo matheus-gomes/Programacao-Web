@@ -5,7 +5,7 @@
 
   <modelVersion>4.0.0</modelVersion>
   <groupId>ufg</groupId>
-  <artifactId>ufg-inf-pw-2016-2</artifactId>
+  <artifactId>ufg-inf-pw-2016-2-atividade-1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
 
@@ -32,7 +32,7 @@
 
   <build>
     <!-- Define o nome do pacote final que será gerado. -->
-    <finalName>ufg-inf-pw-2016-2</finalName>
+    <finalName>ufg-inf-pw-2016-2-atividade-1</finalName>
 
     <plugins>
 
